@@ -273,7 +273,7 @@ GameObject:
   - component: {fileID: 232299462}
   - component: {fileID: 232299461}
   m_Layer: 5
-  m_Name: MulaiButton
+  m_Name: Mulai
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -295,7 +295,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 55}
+  m_AnchoredPosition: {x: 0, y: 35}
   m_SizeDelta: {x: 300, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &232299461
@@ -369,7 +369,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6ea53dca18419a540885051f46ca5122, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5d0ece009d89d1e4da45ef65764877ca, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -416,7 +416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 17}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &503236090
@@ -471,7 +471,7 @@ GameObject:
   - component: {fileID: 543444301}
   - component: {fileID: 543444300}
   m_Layer: 5
-  m_Name: KeluarButton
+  m_Name: Keluar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -493,8 +493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -176}
-  m_SizeDelta: {x: 250, y: 70}
+  m_AnchoredPosition: {x: 5.6, y: -195.5}
+  m_SizeDelta: {x: 311.1, y: 77.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &543444300
 MonoBehaviour:
@@ -589,7 +589,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 53380a75bb31e394387bbe3a999767a2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9cc3039eb76c73a49a695d2392d86f09, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -672,7 +672,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Game ini merupakan game petualangan, dimana kita diwajibkan untuk mencari
-    poin sebanyak-banyaknya, dan menghindari musi
+    poin sebanyak-banyaknya, dan menghindari musuh
 --- !u!222 &549900866
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -939,8 +939,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2, y: -945}
-  m_SizeDelta: {x: 295.8, y: 258.1}
+  m_AnchoredPosition: {x: -8, y: -861.7}
+  m_SizeDelta: {x: 258.7, y: 179.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &879118362
 MonoBehaviour:
@@ -1608,7 +1608,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dc98e599953ecda43a1d145105474901, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 69cf5c9fba0e75940ab23b5fec9be83d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1965,8 +1965,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.9, y: 235.8}
-  m_SizeDelta: {x: 367, y: 199.3}
+  m_AnchoredPosition: {x: 0.000024438, y: 140.05}
+  m_SizeDelta: {x: 835.4, y: 439.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1877289016
 MonoBehaviour:
@@ -1987,7 +1987,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dc98e599953ecda43a1d145105474901, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 44bf55c5a64b22840a090689be74fd62, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2088,7 +2088,7 @@ GameObject:
   - component: {fileID: 1936916992}
   - component: {fileID: 1936916991}
   m_Layer: 5
-  m_Name: CreditPanel
+  m_Name: AboutPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2371,7 +2371,7 @@ GameObject:
   - component: {fileID: 2103052995}
   - component: {fileID: 2103052994}
   m_Layer: 5
-  m_Name: CreditButton
+  m_Name: About
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2393,8 +2393,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -61}
-  m_SizeDelta: {x: 250, y: 70}
+  m_AnchoredPosition: {x: 0, y: -79}
+  m_SizeDelta: {x: 300, y: 77.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2103052994
 MonoBehaviour:
@@ -2489,7 +2489,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 122076228e71af0458f2d552d851b317, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 51377ff301f829e44b654ceed2f7c7d6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
